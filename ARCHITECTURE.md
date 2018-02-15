@@ -1,7 +1,7 @@
 # Rt 106 Architecture
 
 Rt 106 has a [Docker](http://www.docker.com)-based service oriented architecture. Rt 106 is designed to scale
-across a variety of deployments, ranging from cloud deployments support many users
+across a variety of deployments, ranging from cloud deployments to support many users
 and algorithms down to laptop deployments for simple use cases and demos.
 
 ## Server
